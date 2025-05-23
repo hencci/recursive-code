@@ -27,4 +27,5 @@ function generateFibonacciSequence(n, result = [], index = 0) {
     return generateFibonacciSequence(n, result, index + 1);
 }
 
+console.log("This was printed recursively");
 console.log(generateFibonacciSequence(8)); // [0, 1, 1, 2, 3, 5, 8, 13]
