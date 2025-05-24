@@ -63,5 +63,5 @@ This project is intended as a learning exercise to:
 
 recursive-code/<br>
 ├── fibonacci.js<br>
-├── merge_sort_recursive.js<br>
+├── mergeSort.js<br>
 └── README.md
